@@ -39,3 +39,5 @@ Ensure Python and MkDocs are installed.
 ## Development Conventions
 *   **Documentation:** All content is written in Markdown format within the `docs/` directory.
 *   **Configuration:** Adjust site settings, plugins, and themes in `mkdocs.yml`.
+
+

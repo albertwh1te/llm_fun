@@ -1,0 +1,15 @@
+description = "write the result of the conversation to a markdown file"
+
+prompt = """
+
+Please write the result of  `{{args}}` to a markdown file 
+
+requirements:
+- use markdown formatting
+- generate a title for the markdown file based on the content 
+- save as the tile generated with spaces replaced by underscores and all lowercase letters, with a .md extension
+- save folder is `docs/`
+- use the emoji if appropriate
+- make the content engaging and easy to read
+
+"""
