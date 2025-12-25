@@ -1,4 +1,4 @@
-# 🚀 部署实战：将国产大模型 Doubao-Seed-Code 接入 Claude Code
+[]()# 🚀 部署实战：将国产大模型 Doubao-Seed-Code 接入 Claude Code
 
 本指南将带你一步步在本地环境中部署 Claude Code，并将其底层模型替换为字节跳动的 **Doubao-Seed-Code**。通过这种方式，你可以以极低的成本享受顶级的 AI 编程体验。
 

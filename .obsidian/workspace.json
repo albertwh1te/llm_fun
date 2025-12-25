@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/claude_code_using_other_api_integration_guide.md",
+                "file": "docs/claude_agent_skills_reference.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "claude_code_using_other_api_integration_guide"
+              "title": "claude_agent_skills_reference"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/claude_code_using_other_api_integration_guide.md",
+                "file": "docs/claude_agent_skills_reference.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for claude_code_using_other_api_integration_guide"
+              "title": "Backlinks for claude_agent_skills_reference"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/claude_code_using_other_api_integration_guide.md",
+                "file": "docs/claude_agent_skills_reference.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from claude_code_using_other_api_integration_guide"
+              "title": "Outgoing links from claude_agent_skills_reference"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/claude_code_using_other_api_integration_guide.md",
+                "file": "docs/claude_agent_skills_reference.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of claude_code_using_other_api_integration_guide"
+              "title": "Outline of claude_agent_skills_reference"
             }
           }
         ]
@@ -185,6 +185,13 @@
   },
   "active": "e8b211796f915761",
   "lastOpenFiles": [
+    "AGENT.md",
+    "docs/knowledge_connector_test_report.md",
+    "docs/claude_code_using_other_api_integration_guide.md",
+    "docs/claude_agent_skills_reference.md",
+    "CLAUDE.md",
+    "docs/evening_sleep_routine_guide.md",
+    "GEMINI.md",
     "papers/dmm_model.pdf",
     "papers/RL_WITH_MM.pdf",
     "papers/pair_trading_unsupervisored.pdf",
@@ -194,11 +201,9 @@
     "papers/DMM.pdf",
     "papers",
     "docs/sleep_schedule_reset_guide.md",
-    "docs/claude_code_using_other_api_integration_guide.md",
     "docs/the_obsidian_architects_guide.md",
     "docs/coffee_efficiency_vs_sleep_analysis.md",
     "docs/mastering_knowledge_base_management_with_gemini_cli.md",
-    "GEMINI.md",
     "docs/arxiv_crypto_ml_report.md"
   ]
 }
